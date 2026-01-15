@@ -11,7 +11,7 @@ This simulates applying a hotfix from another branch.
 ```bash
 git switch exercise/cherry-target-start
 git switch -c student/<yourname>-cherry
-
+```
 ## Task
 1. Inspect the source branch commit history:
 
