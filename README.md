@@ -1,7 +1,6 @@
 # Git Workshop Exercises
 
-## How this repo works
-- `main` is the safe baseline (don’t rewrite history here).
+## Description
 - Each exercise has a starting branch named: `exercise/<topic>-start`
 - You will create your own branch from the start branch:
   - `git switch exercise/<topic>-start`
