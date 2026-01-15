@@ -2,3 +2,4 @@ Welcome to the Git workshop repo.
 This file is intentionally simple.
 login flow start
 fix typo
+debug logging
